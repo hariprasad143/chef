@@ -1,6 +1,6 @@
 name             'java8'
-maintainer       'Shekhar Gulati'
-maintainer_email 'shekhargulati84@gmail.com'
+maintainer       'raghu'
+maintainer_email 'k.r.rao@outlook.com'
 license          'all_rights'
 description      'Installs/Configures java8'
 long_description 'Installs/Configures java8'
